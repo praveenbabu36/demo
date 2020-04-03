@@ -7,3 +7,5 @@ This is a simple readme file. Updated Content.
 Change for Branch - "very-bad"
 
 This is a change from master branch.
+
+Update for stashing
